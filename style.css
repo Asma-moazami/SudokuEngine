@@ -1,0 +1,16 @@
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align:center;
+}
+.BSC{
+  height:60px;
+  width:60px;
+  margin: 10px;
+  border-radius:100px;
+  font-size:15px;
+  color:black;
+  cursor:pointer;
+}
